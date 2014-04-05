@@ -1,0 +1,14 @@
+{
+	"currentCell":{
+		"note":"",
+		"mazeGuid":"927ee80e-c19d-4e03-a1e7-4277fd109d66",
+		"atEnd":false,
+		"north":"VISITED",
+		"east":"UNEXPLORED",
+		"west":"BLOCKED",
+		"south":"BLOCKED",
+		"x":0,
+		"y":1,
+		"previouslyVisited":false
+	}
+}
