@@ -1,7 +1,5 @@
-#maven build directory
-/target/*
-
 #eclipse files:
 .classpath
 .project
 .settings/*
+/target
